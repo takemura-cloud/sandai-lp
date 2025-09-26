@@ -20,7 +20,14 @@
 [公開URLはこちら](https://sandai-lp.com/)
 
 ## プレビュー
-メインビジュアル
+メインビジュアル  
+![トップページ](./screenshots/sandai-main.png)
+
+スマホ表示  
+![スマホ表示](./screenshots/sandai-sp.png)
+
+Serviceセクション  
+![Serviceセクション](./screenshots/sandai-service.png)
 
 
 ## 制作期間
