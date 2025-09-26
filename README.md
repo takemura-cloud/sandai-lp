@@ -17,7 +17,7 @@
 - 基本的な JavaScript によるナビゲーション切り替えを実装
 
 ## サイトURL
-[公開URLはこちら](https://sandai-lp.com/)
+[公開URLはこちら](http://sandai-lp.com/)
 
 ## プレビュー
 メインビジュアル  
