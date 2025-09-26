@@ -19,7 +19,7 @@
 ## サイトURL
 [公開URLはこちら](http://sandai-lp.com/)
 
-## プレビュー
+## スクリーンショット
 メインビジュアル  
 ![トップページ](sandai/screenshots/sandai-main.png)
 
