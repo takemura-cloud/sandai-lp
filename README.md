@@ -21,13 +21,13 @@
 
 ## プレビュー
 メインビジュアル  
-![トップページ](./screenshots/sandai-main.png)
+![トップページ](.sandai/screenshots/sandai-main.png)
 
 スマホ表示  
-![スマホ表示](./screenshots/sandai-sp.png)
+![スマホ表示](.sandai/screenshots/sandai-sp.png)
 
 Serviceセクション  
-![Serviceセクション](./screenshots/sandai-service.png)
+![Serviceセクション](.sandai/screenshots/sandai-service.png)
 
 
 ## 制作期間
