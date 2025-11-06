@@ -16,9 +16,6 @@
 - PC/SP 両対応のデザインを制作  
 - 基本的な JavaScript によるナビゲーション切り替えを実装
 
-## サイトURL
-[公開URLはこちら](http://sandai-lp.com/)
-
 ## スクリーンショット
 メインビジュアル  
 ![トップページ](sandai/screenshots/sandai-main.png)
@@ -29,6 +26,7 @@
 Serviceセクション  
 ![Serviceセクション](sandai/screenshots/sandai-service.png)
 
+※実績としての参考画像（掲載許可取得済み）
 
 ## 制作期間
 2025年8月（約2か月）
